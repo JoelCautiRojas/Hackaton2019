@@ -1,8 +1,8 @@
-package example.com.hackaton2019.presentation;
+package example.com.hackaton2019.presentation.viewcontrollers;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import androidx.appcompat.app.AppCompatActivity;
 import example.com.hackaton2019.R;
 
 public class MainActivity extends AppCompatActivity {
